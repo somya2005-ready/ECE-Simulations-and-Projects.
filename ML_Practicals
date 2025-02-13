@@ -1,0 +1,66 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyNN3w9WJvTlWPZFOyRq3bkD",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/somya2005-ready/ECE-Simulations-and-Projects./blob/main/ML_Practicals\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "1. Measurement of electric power consumption (data loadipng ,subsetting , histogram ,time series ,plots)"
+      ],
+      "metadata": {
+        "id": "060DTQI3PyG5"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "1YRSepBPQVcB"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "2. Use a dataset (e.g. Iris ot Titanic) to perform basic EDA ;summary statistics , implementing linear regression using gradient descent ."
+      ],
+      "metadata": {
+        "id": "pbEKINP0PYNI"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "3.Implemet Linear regression using gradient descent manually (without libraries like scikit - learn) .Compute the results with closed form solutions."
+      ],
+      "metadata": {
+        "id": "nzXsuSxaQANi"
+      }
+    }
+  ]
+}
